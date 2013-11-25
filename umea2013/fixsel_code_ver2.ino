@@ -2,7 +2,7 @@
 fixsel code
 version 2
 Matt Ratto 
-http://www.github.com/mattratto/experiences/umea2013fixsel
+http://www.github.com/mattratto/experiences/ (look under Umea2013)
 with liberal borrowings from 'Touch' code by David Mellis 
 */
 
